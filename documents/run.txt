@@ -1,0 +1,7 @@
+*multiple clients - one server*
+
+***in "projects"***
+
+cd "VPN simulation"
+.\run-server.bat
+.\run-client.bat
